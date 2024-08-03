@@ -1,0 +1,183 @@
+D:\FileApp\MicrosoftVSProjects\SolarEase\bin\Release\net7.0\win-x86\appsettings.Development.json
+D:\FileApp\MicrosoftVSProjects\SolarEase\bin\Release\net7.0\win-x86\appsettings.json
+D:\FileApp\MicrosoftVSProjects\SolarEase\bin\Release\net7.0\win-x86\SolarEase.staticwebassets.runtime.json
+D:\FileApp\MicrosoftVSProjects\SolarEase\bin\Release\net7.0\win-x86\SolarEase.exe
+D:\FileApp\MicrosoftVSProjects\SolarEase\bin\Release\net7.0\win-x86\SolarEase.deps.json
+D:\FileApp\MicrosoftVSProjects\SolarEase\bin\Release\net7.0\win-x86\SolarEase.runtimeconfig.json
+D:\FileApp\MicrosoftVSProjects\SolarEase\bin\Release\net7.0\win-x86\SolarEase.dll
+D:\FileApp\MicrosoftVSProjects\SolarEase\bin\Release\net7.0\win-x86\SolarEase.pdb
+D:\FileApp\MicrosoftVSProjects\SolarEase\bin\Release\net7.0\win-x86\AutoMapper.dll
+D:\FileApp\MicrosoftVSProjects\SolarEase\bin\Release\net7.0\win-x86\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\FileApp\MicrosoftVSProjects\SolarEase\bin\Release\net7.0\win-x86\Azure.Core.dll
+D:\FileApp\MicrosoftVSProjects\SolarEase\bin\Release\net7.0\win-x86\Azure.Identity.dll
+D:\FileApp\MicrosoftVSProjects\SolarEase\bin\Release\net7.0\win-x86\BouncyCastle.Cryptography.dll
+D:\FileApp\MicrosoftVSProjects\SolarEase\bin\Release\net7.0\win-x86\EPPlus.dll
+D:\FileApp\MicrosoftVSProjects\SolarEase\bin\Release\net7.0\win-x86\EPPlus.Interfaces.dll
+D:\FileApp\MicrosoftVSProjects\SolarEase\bin\Release\net7.0\win-x86\EPPlus.System.Drawing.dll
+D:\FileApp\MicrosoftVSProjects\SolarEase\bin\Release\net7.0\win-x86\Humanizer.dll
+D:\FileApp\MicrosoftVSProjects\SolarEase\bin\Release\net7.0\win-x86\MailKit.dll
+D:\FileApp\MicrosoftVSProjects\SolarEase\bin\Release\net7.0\win-x86\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\FileApp\MicrosoftVSProjects\SolarEase\bin\Release\net7.0\win-x86\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\FileApp\MicrosoftVSProjects\SolarEase\bin\Release\net7.0\win-x86\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\FileApp\MicrosoftVSProjects\SolarEase\bin\Release\net7.0\win-x86\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\FileApp\MicrosoftVSProjects\SolarEase\bin\Release\net7.0\win-x86\Microsoft.AspNetCore.OpenApi.dll
+D:\FileApp\MicrosoftVSProjects\SolarEase\bin\Release\net7.0\win-x86\Microsoft.Bcl.AsyncInterfaces.dll
+D:\FileApp\MicrosoftVSProjects\SolarEase\bin\Release\net7.0\win-x86\Microsoft.Data.SqlClient.dll
+D:\FileApp\MicrosoftVSProjects\SolarEase\bin\Release\net7.0\win-x86\Microsoft.EntityFrameworkCore.dll
+D:\FileApp\MicrosoftVSProjects\SolarEase\bin\Release\net7.0\win-x86\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\FileApp\MicrosoftVSProjects\SolarEase\bin\Release\net7.0\win-x86\Microsoft.EntityFrameworkCore.Design.dll
+D:\FileApp\MicrosoftVSProjects\SolarEase\bin\Release\net7.0\win-x86\Microsoft.EntityFrameworkCore.Relational.dll
+D:\FileApp\MicrosoftVSProjects\SolarEase\bin\Release\net7.0\win-x86\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\FileApp\MicrosoftVSProjects\SolarEase\bin\Release\net7.0\win-x86\Microsoft.Extensions.DependencyModel.dll
+D:\FileApp\MicrosoftVSProjects\SolarEase\bin\Release\net7.0\win-x86\Microsoft.Extensions.Identity.Core.dll
+D:\FileApp\MicrosoftVSProjects\SolarEase\bin\Release\net7.0\win-x86\Microsoft.Extensions.Identity.Stores.dll
+D:\FileApp\MicrosoftVSProjects\SolarEase\bin\Release\net7.0\win-x86\Microsoft.Extensions.Options.dll
+D:\FileApp\MicrosoftVSProjects\SolarEase\bin\Release\net7.0\win-x86\Microsoft.Identity.Client.dll
+D:\FileApp\MicrosoftVSProjects\SolarEase\bin\Release\net7.0\win-x86\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\FileApp\MicrosoftVSProjects\SolarEase\bin\Release\net7.0\win-x86\Microsoft.IdentityModel.Abstractions.dll
+D:\FileApp\MicrosoftVSProjects\SolarEase\bin\Release\net7.0\win-x86\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\FileApp\MicrosoftVSProjects\SolarEase\bin\Release\net7.0\win-x86\Microsoft.IdentityModel.Logging.dll
+D:\FileApp\MicrosoftVSProjects\SolarEase\bin\Release\net7.0\win-x86\Microsoft.IdentityModel.Protocols.dll
+D:\FileApp\MicrosoftVSProjects\SolarEase\bin\Release\net7.0\win-x86\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\FileApp\MicrosoftVSProjects\SolarEase\bin\Release\net7.0\win-x86\Microsoft.IdentityModel.Tokens.dll
+D:\FileApp\MicrosoftVSProjects\SolarEase\bin\Release\net7.0\win-x86\Microsoft.IO.RecyclableMemoryStream.dll
+D:\FileApp\MicrosoftVSProjects\SolarEase\bin\Release\net7.0\win-x86\Microsoft.OpenApi.dll
+D:\FileApp\MicrosoftVSProjects\SolarEase\bin\Release\net7.0\win-x86\Microsoft.SqlServer.Server.dll
+D:\FileApp\MicrosoftVSProjects\SolarEase\bin\Release\net7.0\win-x86\Microsoft.Win32.SystemEvents.dll
+D:\FileApp\MicrosoftVSProjects\SolarEase\bin\Release\net7.0\win-x86\MimeKit.dll
+D:\FileApp\MicrosoftVSProjects\SolarEase\bin\Release\net7.0\win-x86\Mono.TextTemplating.dll
+D:\FileApp\MicrosoftVSProjects\SolarEase\bin\Release\net7.0\win-x86\Newtonsoft.Json.dll
+D:\FileApp\MicrosoftVSProjects\SolarEase\bin\Release\net7.0\win-x86\Swashbuckle.AspNetCore.Swagger.dll
+D:\FileApp\MicrosoftVSProjects\SolarEase\bin\Release\net7.0\win-x86\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\FileApp\MicrosoftVSProjects\SolarEase\bin\Release\net7.0\win-x86\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\FileApp\MicrosoftVSProjects\SolarEase\bin\Release\net7.0\win-x86\System.CodeDom.dll
+D:\FileApp\MicrosoftVSProjects\SolarEase\bin\Release\net7.0\win-x86\System.Configuration.ConfigurationManager.dll
+D:\FileApp\MicrosoftVSProjects\SolarEase\bin\Release\net7.0\win-x86\System.Drawing.Common.dll
+D:\FileApp\MicrosoftVSProjects\SolarEase\bin\Release\net7.0\win-x86\System.Formats.Asn1.dll
+D:\FileApp\MicrosoftVSProjects\SolarEase\bin\Release\net7.0\win-x86\System.IdentityModel.Tokens.Jwt.dll
+D:\FileApp\MicrosoftVSProjects\SolarEase\bin\Release\net7.0\win-x86\System.Memory.Data.dll
+D:\FileApp\MicrosoftVSProjects\SolarEase\bin\Release\net7.0\win-x86\System.Runtime.Caching.dll
+D:\FileApp\MicrosoftVSProjects\SolarEase\bin\Release\net7.0\win-x86\System.Security.Cryptography.Pkcs.dll
+D:\FileApp\MicrosoftVSProjects\SolarEase\bin\Release\net7.0\win-x86\System.Security.Cryptography.ProtectedData.dll
+D:\FileApp\MicrosoftVSProjects\SolarEase\bin\Release\net7.0\win-x86\System.Security.Permissions.dll
+D:\FileApp\MicrosoftVSProjects\SolarEase\bin\Release\net7.0\win-x86\System.Text.Encoding.CodePages.dll
+D:\FileApp\MicrosoftVSProjects\SolarEase\bin\Release\net7.0\win-x86\System.Windows.Extensions.dll
+D:\FileApp\MicrosoftVSProjects\SolarEase\bin\Release\net7.0\win-x86\Microsoft.Data.SqlClient.SNI.dll
+D:\FileApp\MicrosoftVSProjects\SolarEase\obj\Release\net7.0\win-x86\SolarEase.csproj.AssemblyReference.cache
+D:\FileApp\MicrosoftVSProjects\SolarEase\obj\Release\net7.0\win-x86\SolarEase.GeneratedMSBuildEditorConfig.editorconfig
+D:\FileApp\MicrosoftVSProjects\SolarEase\obj\Release\net7.0\win-x86\SolarEase.AssemblyInfoInputs.cache
+D:\FileApp\MicrosoftVSProjects\SolarEase\obj\Release\net7.0\win-x86\SolarEase.AssemblyInfo.cs
+D:\FileApp\MicrosoftVSProjects\SolarEase\obj\Release\net7.0\win-x86\SolarEase.csproj.CoreCompileInputs.cache
+D:\FileApp\MicrosoftVSProjects\SolarEase\obj\Release\net7.0\win-x86\SolarEase.MvcApplicationPartsAssemblyInfo.cs
+D:\FileApp\MicrosoftVSProjects\SolarEase\obj\Release\net7.0\win-x86\SolarEase.MvcApplicationPartsAssemblyInfo.cache
+D:\FileApp\MicrosoftVSProjects\SolarEase\obj\Release\net7.0\win-x86\staticwebassets\msbuild.SolarEase.Microsoft.AspNetCore.StaticWebAssets.props
+D:\FileApp\MicrosoftVSProjects\SolarEase\obj\Release\net7.0\win-x86\staticwebassets\msbuild.build.SolarEase.props
+D:\FileApp\MicrosoftVSProjects\SolarEase\obj\Release\net7.0\win-x86\staticwebassets\msbuild.buildMultiTargeting.SolarEase.props
+D:\FileApp\MicrosoftVSProjects\SolarEase\obj\Release\net7.0\win-x86\staticwebassets\msbuild.buildTransitive.SolarEase.props
+D:\FileApp\MicrosoftVSProjects\SolarEase\obj\Release\net7.0\win-x86\staticwebassets.pack.json
+D:\FileApp\MicrosoftVSProjects\SolarEase\obj\Release\net7.0\win-x86\staticwebassets.build.json
+D:\FileApp\MicrosoftVSProjects\SolarEase\obj\Release\net7.0\win-x86\staticwebassets.development.json
+D:\FileApp\MicrosoftVSProjects\SolarEase\obj\Release\net7.0\win-x86\scopedcss\bundle\SolarEase.styles.css
+D:\FileApp\MicrosoftVSProjects\SolarEase\obj\Release\net7.0\win-x86\SolarEase.csproj.CopyComplete
+D:\FileApp\MicrosoftVSProjects\SolarEase\obj\Release\net7.0\win-x86\SolarEase.dll
+D:\FileApp\MicrosoftVSProjects\SolarEase\obj\Release\net7.0\win-x86\refint\SolarEase.dll
+D:\FileApp\MicrosoftVSProjects\SolarEase\obj\Release\net7.0\win-x86\SolarEase.pdb
+D:\FileApp\MicrosoftVSProjects\SolarEase\obj\Release\net7.0\win-x86\SolarEase.genruntimeconfig.cache
+D:\FileApp\MicrosoftVSProjects\SolarEase\obj\Release\net7.0\win-x86\ref\SolarEase.dll
+E:\GP\Deploy Moster\SolarEase\bin\Release\net7.0\win-x86\appsettings.Development.json
+E:\GP\Deploy Moster\SolarEase\bin\Release\net7.0\win-x86\appsettings.json
+E:\GP\Deploy Moster\SolarEase\bin\Release\net7.0\win-x86\SolarEase.staticwebassets.runtime.json
+E:\GP\Deploy Moster\SolarEase\bin\Release\net7.0\win-x86\SolarEase.exe
+E:\GP\Deploy Moster\SolarEase\bin\Release\net7.0\win-x86\SolarEase.deps.json
+E:\GP\Deploy Moster\SolarEase\bin\Release\net7.0\win-x86\SolarEase.runtimeconfig.json
+E:\GP\Deploy Moster\SolarEase\bin\Release\net7.0\win-x86\SolarEase.dll
+E:\GP\Deploy Moster\SolarEase\bin\Release\net7.0\win-x86\SolarEase.pdb
+E:\GP\Deploy Moster\SolarEase\bin\Release\net7.0\win-x86\AutoMapper.dll
+E:\GP\Deploy Moster\SolarEase\bin\Release\net7.0\win-x86\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\GP\Deploy Moster\SolarEase\bin\Release\net7.0\win-x86\Azure.Core.dll
+E:\GP\Deploy Moster\SolarEase\bin\Release\net7.0\win-x86\Azure.Identity.dll
+E:\GP\Deploy Moster\SolarEase\bin\Release\net7.0\win-x86\BouncyCastle.Cryptography.dll
+E:\GP\Deploy Moster\SolarEase\bin\Release\net7.0\win-x86\EPPlus.dll
+E:\GP\Deploy Moster\SolarEase\bin\Release\net7.0\win-x86\EPPlus.Interfaces.dll
+E:\GP\Deploy Moster\SolarEase\bin\Release\net7.0\win-x86\EPPlus.System.Drawing.dll
+E:\GP\Deploy Moster\SolarEase\bin\Release\net7.0\win-x86\Humanizer.dll
+E:\GP\Deploy Moster\SolarEase\bin\Release\net7.0\win-x86\MailKit.dll
+E:\GP\Deploy Moster\SolarEase\bin\Release\net7.0\win-x86\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\GP\Deploy Moster\SolarEase\bin\Release\net7.0\win-x86\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\GP\Deploy Moster\SolarEase\bin\Release\net7.0\win-x86\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\GP\Deploy Moster\SolarEase\bin\Release\net7.0\win-x86\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\GP\Deploy Moster\SolarEase\bin\Release\net7.0\win-x86\Microsoft.AspNetCore.OpenApi.dll
+E:\GP\Deploy Moster\SolarEase\bin\Release\net7.0\win-x86\Microsoft.Bcl.AsyncInterfaces.dll
+E:\GP\Deploy Moster\SolarEase\bin\Release\net7.0\win-x86\Microsoft.Data.SqlClient.dll
+E:\GP\Deploy Moster\SolarEase\bin\Release\net7.0\win-x86\Microsoft.EntityFrameworkCore.dll
+E:\GP\Deploy Moster\SolarEase\bin\Release\net7.0\win-x86\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\GP\Deploy Moster\SolarEase\bin\Release\net7.0\win-x86\Microsoft.EntityFrameworkCore.Design.dll
+E:\GP\Deploy Moster\SolarEase\bin\Release\net7.0\win-x86\Microsoft.EntityFrameworkCore.Relational.dll
+E:\GP\Deploy Moster\SolarEase\bin\Release\net7.0\win-x86\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\GP\Deploy Moster\SolarEase\bin\Release\net7.0\win-x86\Microsoft.Extensions.DependencyModel.dll
+E:\GP\Deploy Moster\SolarEase\bin\Release\net7.0\win-x86\Microsoft.Extensions.Identity.Core.dll
+E:\GP\Deploy Moster\SolarEase\bin\Release\net7.0\win-x86\Microsoft.Extensions.Identity.Stores.dll
+E:\GP\Deploy Moster\SolarEase\bin\Release\net7.0\win-x86\Microsoft.Extensions.Options.dll
+E:\GP\Deploy Moster\SolarEase\bin\Release\net7.0\win-x86\Microsoft.Identity.Client.dll
+E:\GP\Deploy Moster\SolarEase\bin\Release\net7.0\win-x86\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\GP\Deploy Moster\SolarEase\bin\Release\net7.0\win-x86\Microsoft.IdentityModel.Abstractions.dll
+E:\GP\Deploy Moster\SolarEase\bin\Release\net7.0\win-x86\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\GP\Deploy Moster\SolarEase\bin\Release\net7.0\win-x86\Microsoft.IdentityModel.Logging.dll
+E:\GP\Deploy Moster\SolarEase\bin\Release\net7.0\win-x86\Microsoft.IdentityModel.Protocols.dll
+E:\GP\Deploy Moster\SolarEase\bin\Release\net7.0\win-x86\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\GP\Deploy Moster\SolarEase\bin\Release\net7.0\win-x86\Microsoft.IdentityModel.Tokens.dll
+E:\GP\Deploy Moster\SolarEase\bin\Release\net7.0\win-x86\Microsoft.IO.RecyclableMemoryStream.dll
+E:\GP\Deploy Moster\SolarEase\bin\Release\net7.0\win-x86\Microsoft.OpenApi.dll
+E:\GP\Deploy Moster\SolarEase\bin\Release\net7.0\win-x86\Microsoft.SqlServer.Server.dll
+E:\GP\Deploy Moster\SolarEase\bin\Release\net7.0\win-x86\Microsoft.Win32.SystemEvents.dll
+E:\GP\Deploy Moster\SolarEase\bin\Release\net7.0\win-x86\MimeKit.dll
+E:\GP\Deploy Moster\SolarEase\bin\Release\net7.0\win-x86\Mono.TextTemplating.dll
+E:\GP\Deploy Moster\SolarEase\bin\Release\net7.0\win-x86\Newtonsoft.Json.dll
+E:\GP\Deploy Moster\SolarEase\bin\Release\net7.0\win-x86\Swashbuckle.AspNetCore.Swagger.dll
+E:\GP\Deploy Moster\SolarEase\bin\Release\net7.0\win-x86\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\GP\Deploy Moster\SolarEase\bin\Release\net7.0\win-x86\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\GP\Deploy Moster\SolarEase\bin\Release\net7.0\win-x86\System.CodeDom.dll
+E:\GP\Deploy Moster\SolarEase\bin\Release\net7.0\win-x86\System.Configuration.ConfigurationManager.dll
+E:\GP\Deploy Moster\SolarEase\bin\Release\net7.0\win-x86\System.Drawing.Common.dll
+E:\GP\Deploy Moster\SolarEase\bin\Release\net7.0\win-x86\System.Formats.Asn1.dll
+E:\GP\Deploy Moster\SolarEase\bin\Release\net7.0\win-x86\System.IdentityModel.Tokens.Jwt.dll
+E:\GP\Deploy Moster\SolarEase\bin\Release\net7.0\win-x86\System.Memory.Data.dll
+E:\GP\Deploy Moster\SolarEase\bin\Release\net7.0\win-x86\System.Runtime.Caching.dll
+E:\GP\Deploy Moster\SolarEase\bin\Release\net7.0\win-x86\System.Security.Cryptography.Pkcs.dll
+E:\GP\Deploy Moster\SolarEase\bin\Release\net7.0\win-x86\System.Security.Cryptography.ProtectedData.dll
+E:\GP\Deploy Moster\SolarEase\bin\Release\net7.0\win-x86\System.Security.Permissions.dll
+E:\GP\Deploy Moster\SolarEase\bin\Release\net7.0\win-x86\System.Text.Encoding.CodePages.dll
+E:\GP\Deploy Moster\SolarEase\bin\Release\net7.0\win-x86\System.Windows.Extensions.dll
+E:\GP\Deploy Moster\SolarEase\bin\Release\net7.0\win-x86\Microsoft.Data.SqlClient.SNI.dll
+E:\GP\Deploy Moster\SolarEase\obj\Release\net7.0\win-x86\SolarEase.csproj.AssemblyReference.cache
+E:\GP\Deploy Moster\SolarEase\obj\Release\net7.0\win-x86\SolarEase.GeneratedMSBuildEditorConfig.editorconfig
+E:\GP\Deploy Moster\SolarEase\obj\Release\net7.0\win-x86\SolarEase.AssemblyInfoInputs.cache
+E:\GP\Deploy Moster\SolarEase\obj\Release\net7.0\win-x86\SolarEase.AssemblyInfo.cs
+E:\GP\Deploy Moster\SolarEase\obj\Release\net7.0\win-x86\SolarEase.csproj.CoreCompileInputs.cache
+E:\GP\Deploy Moster\SolarEase\obj\Release\net7.0\win-x86\SolarEase.MvcApplicationPartsAssemblyInfo.cs
+E:\GP\Deploy Moster\SolarEase\obj\Release\net7.0\win-x86\SolarEase.MvcApplicationPartsAssemblyInfo.cache
+E:\GP\Deploy Moster\SolarEase\obj\Release\net7.0\win-x86\staticwebassets\msbuild.SolarEase.Microsoft.AspNetCore.StaticWebAssets.props
+E:\GP\Deploy Moster\SolarEase\obj\Release\net7.0\win-x86\staticwebassets\msbuild.build.SolarEase.props
+E:\GP\Deploy Moster\SolarEase\obj\Release\net7.0\win-x86\staticwebassets\msbuild.buildMultiTargeting.SolarEase.props
+E:\GP\Deploy Moster\SolarEase\obj\Release\net7.0\win-x86\staticwebassets\msbuild.buildTransitive.SolarEase.props
+E:\GP\Deploy Moster\SolarEase\obj\Release\net7.0\win-x86\staticwebassets.pack.json
+E:\GP\Deploy Moster\SolarEase\obj\Release\net7.0\win-x86\staticwebassets.build.json
+E:\GP\Deploy Moster\SolarEase\obj\Release\net7.0\win-x86\staticwebassets.development.json
+E:\GP\Deploy Moster\SolarEase\obj\Release\net7.0\win-x86\scopedcss\bundle\SolarEase.styles.css
+E:\GP\Deploy Moster\SolarEase\obj\Release\net7.0\win-x86\SolarEase.csproj.CopyComplete
+E:\GP\Deploy Moster\SolarEase\obj\Release\net7.0\win-x86\SolarEase.dll
+E:\GP\Deploy Moster\SolarEase\obj\Release\net7.0\win-x86\refint\SolarEase.dll
+E:\GP\Deploy Moster\SolarEase\obj\Release\net7.0\win-x86\SolarEase.pdb
+E:\GP\Deploy Moster\SolarEase\obj\Release\net7.0\win-x86\SolarEase.genruntimeconfig.cache
+E:\GP\Deploy Moster\SolarEase\obj\Release\net7.0\win-x86\ref\SolarEase.dll
+E:\GP\Deploy Moster\SolarEase\bin\Release\net7.0\win-x86\Microsoft.ML.Core.dll
+E:\GP\Deploy Moster\SolarEase\bin\Release\net7.0\win-x86\Microsoft.ML.Data.dll
+E:\GP\Deploy Moster\SolarEase\bin\Release\net7.0\win-x86\Microsoft.ML.KMeansClustering.dll
+E:\GP\Deploy Moster\SolarEase\bin\Release\net7.0\win-x86\Microsoft.ML.PCA.dll
+E:\GP\Deploy Moster\SolarEase\bin\Release\net7.0\win-x86\Microsoft.ML.StandardTrainers.dll
+E:\GP\Deploy Moster\SolarEase\bin\Release\net7.0\win-x86\Microsoft.ML.Transforms.dll
+E:\GP\Deploy Moster\SolarEase\bin\Release\net7.0\win-x86\Microsoft.ML.dll
+E:\GP\Deploy Moster\SolarEase\bin\Release\net7.0\win-x86\Microsoft.ML.CpuMath.dll
+E:\GP\Deploy Moster\SolarEase\bin\Release\net7.0\win-x86\Microsoft.ML.DataView.dll
+E:\GP\Deploy Moster\SolarEase\bin\Release\net7.0\win-x86\System.Numerics.Tensors.dll
+E:\GP\Deploy Moster\SolarEase\bin\Release\net7.0\win-x86\LdaNative.dll
