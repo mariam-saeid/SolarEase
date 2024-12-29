@@ -21,3 +21,9 @@ Functional Requirements
 - Find Solar Installers: Provides the user with a list of certified solar installation companies, ordered by the nearest to the user's location.
 - Solar Market Prices: Provides the user with a price list of solar products including panels, inverters, and batteries from various brands and capacities. Users can add any products to their favorite products page for easy reference and comparison.
 - Online Trade Marketplace: Users can post solar products for sale, whether new or used. These products must be displayed to other users interested in purchasing them. The marketplace should allow sellers to provide their contact information, such as a phone number, within their product posts to allow potential buyers to communicate with them. Users should be able to search, view, and add any post to their favorite posts page for easy reference and comparison.
+
+4) Chatbot:
+- Chatbot: The user can chat and interact with a rule-based chatbot that provides information on general solar-related topics, offers advice, and assists in facilitating the installation process.
+
+5) Posts Filtration: 
+- Filter Post: Admin can review and filter posts before publishing in the marketplace and reject the posts that violate the standards.
